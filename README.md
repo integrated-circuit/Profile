@@ -1,10 +1,15 @@
 # My Profile
-👋 Hi, I’m @integratedcircuit
+👋 Hi, I’m @integrated-circuit
 
-👀 I’m interested in programmation and gpio hardware
-
-🌱 I’m currently learning tkinter
-
-💞️ I’m looking to collaborate on
+Skills:
+- Programming languages:
+  - Python
+  - Electron (Learning rn)
+- CAD:
+  - good at using Fusion 360
+  - good at using Fritzing
+- Hardware:
+  - basic understanding on gpio and circutery  
+ 
 
 📫 How to reach me joussemetmathis@gmail.com
