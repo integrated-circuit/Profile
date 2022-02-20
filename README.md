@@ -9,7 +9,7 @@ Skills:
   - good at using Fusion 360
   - good at using Fritzing
 - Hardware:
-  - basic understanding on gpio and circutery  
+  - basic understanding on GPIO and Circutery  
  
 
 📫 How to reach me joussemetmathis@gmail.com
