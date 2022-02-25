@@ -12,4 +12,4 @@ Skills:
   - basic understanding on GPIO and Circutery  
  
 
-📫 How to reach me joussemetmathis@gmail.com
+📫 How to reach me joussemetmathis@outlook.fr
