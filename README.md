@@ -8,6 +8,7 @@ Skills:
 - CAD:
   - good at using Fusion 360
   - good at using Fritzing
+  - learning LibrePCB
 - Hardware:
   - basic understanding on GPIO and Circutery  
  
