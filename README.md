@@ -11,6 +11,9 @@ Skills:
   - learning LibrePCB
 - Hardware:
   - basic understanding on GPIO and Circutery  
- 
 
+# My Projects
+[AIpy](https://integrated-circuit.github.io/AIpy.github.io/)
+
+# Contact
 📫 How to reach me joussemetmathis@outlook.fr
